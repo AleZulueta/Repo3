@@ -1,5 +1,6 @@
 Lista
 -----
 Dress
-
+Shoes
+Pants
 -
